@@ -1,0 +1,99 @@
+[
+    {'appointmentDt': {'date': '2022-08-25', 'dayOfWeek': 'Thursday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '09: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '08: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-25', 'dayOfWeek': 'Thursday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '10: 15', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '09: 30'
+    },
+    {'appointmentDt': {'date': '2022-08-25', 'dayOfWeek': 'Thursday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '12: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '12: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-25', 'dayOfWeek': 'Thursday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '15: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '15: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-26', 'dayOfWeek': 'Friday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '11: 15', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '10: 30'
+    },
+    {'appointmentDt': {'date': '2022-08-26', 'dayOfWeek': 'Friday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '12: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '12: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-26', 'dayOfWeek': 'Friday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '14: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '14: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '09: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '08: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '11: 15', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '10: 30'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '12: 00', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '11: 15'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '14: 00', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '13: 15'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '14: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '14: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-29', 'dayOfWeek': 'Monday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '16: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '15: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '09: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '08: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '11: 15', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '10: 30'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '12: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '12: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '14: 00', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '13: 15'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '15: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '15: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-30', 'dayOfWeek': 'Tuesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '16: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '15: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-31', 'dayOfWeek': 'Wednesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '09: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '08: 45'
+    },
+    {'appointmentDt': {'date': '2022-08-31', 'dayOfWeek': 'Wednesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '11: 15', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '10: 30'
+    },
+    {'appointmentDt': {'date': '2022-08-31', 'dayOfWeek': 'Wednesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '12: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '12: 00'
+    },
+    {'appointmentDt': {'date': '2022-08-31', 'dayOfWeek': 'Wednesday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '14: 45', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 15905, 'startTm': '14: 00'
+    },
+    {'appointmentDt': {'date': '2022-09-01', 'dayOfWeek': 'Thursday'
+        }, 'dlExam': {'code': '5-R-1', 'description': '5-R-ROAD'
+        }, 'endTm': '09: 30', 'lemgMsgId': 35, 'posId': 153, 'resourceId': 14703, 'startTm': '08: 45'
+    }
+]
+x65han@x65han-mbp book_drive_test % 
