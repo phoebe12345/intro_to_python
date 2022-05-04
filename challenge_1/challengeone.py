@@ -1,3 +1,5 @@
+# file = open ("challengeone.txt","r")
+
 total_score = 0
 counter = 0
 max_score = 0
@@ -36,3 +38,16 @@ print (max_name)
 print( f"max_score: {max_score}")
 print(f"average score: {average_score}")
 print (f"lowest name: {min_name}")
+
+
+
+
+
+
+# for line in file.readlines():
+#     num = int(line.split(",")[0])
+#     if (max < num):
+#         max = num 
+# print(max)
+
+ 
