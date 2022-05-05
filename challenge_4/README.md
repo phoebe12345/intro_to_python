@@ -39,3 +39,5 @@ o  ** **  * *    *  * ***  * *** * *  * * * * *  *
 *  **** **  *  **           ** *  * * *        ***
 **********************************************X***
 ```
+
+The code must not be a bunch of lines of lose scripts. At a bare minimum, we should have a `class Maze` that handles all maze related logic and a `class Player`. There may be other functions if they don't fall into either classes.
