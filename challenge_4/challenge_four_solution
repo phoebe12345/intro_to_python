@@ -1,0 +1,57 @@
+which_puzzle_input = input()
+
+class Player:
+    def greeting(self):
+        print("choose between puzzles 1-3")
+        print("you are '0' on the gameboard")
+        print(" use 'W' to move up")
+        print(" use 'A' to move left")
+        print(" use 'S' to move down")
+        print(" use 'D' to move right")
+    def moves(self):
+        player_move = input()
+        if player_move == 'W':
+            print('hello')
+
+class Board:  
+    # def __init__(self):
+        
+
+
+    def board_to_array(self):
+        if which_puzzle_input == "1":
+            with open("maze_one.txt") as file: 
+                for line in file:
+                    lines = [line.split() for line in file]
+    # board_to_array()  
+    def read_file(self):
+        if which_puzzle_input == "1":
+            with open("maze_one.txt") as file: 
+                for line in file:
+                    print(line, end='')
+        elif which_puzzle_input == "2":
+            with open("maze_two.txt") as file: 
+                for line in file:
+                    print(line, end='') 
+        elif which_puzzle_input == "3":
+            with open("maze_two.txt") as file: 
+                for line in file:
+                    print(line, end='') 
+        elif which_puzzle_input == "4":
+            with open("maze_two.txt") as file: 
+                for line in file:
+                    print(line, end='')     
+        elif which_puzzle_input == "5":
+            with open("maze_two.txt") as file: 
+                for line in file:
+                    print(line, end='')        
+    
+    
+    
+
+    read_file()
+    greeting()
+
+# have an array running in background 
+# when key is pressed (ex. down key) board running in background will keep track of moves while printboard is what user sees
+# printboard prints a new board depending on where the move was made
